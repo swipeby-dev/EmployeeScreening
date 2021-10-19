@@ -9,6 +9,9 @@ The original objectives of the project:
 * It will return two columns, `latitude` and `longitude`, that should then be used to return the results of an external weather api endpoint.
 * The endpoint, `https://api.weather.gov/points/{lat},{lon}`, is detailed here: https://weather-gov.github.io/api/general-faqs
 
+**Note** The provided database should not be changed in any way. Our DBA wouldn't like that!  
+A known id: `80aa3684-1512-4e03-88c4-072670cc9459`
+
 ## Your Objective
 You have been contracted as an expert in your field.  You accept nothing less than professionally written enterprise-grade code.  Your objectives:  
 * Perform a thorough code review and be able to discuss any issues you find.
